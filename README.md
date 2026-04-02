@@ -10,3 +10,4 @@
 | 6 | Check if Strings Can be Made Equal... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | 30-03-26 |
 | 7 | Lexicographically Smallest Generat... | hard | JavaScript | Greedy | [Link](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | 31-03-26 |
 | 8 | Robot Collisions | hard | JavaScript | Stack | [Link](https://leetcode.com/problems/robot-collisions/) | 01-04-26 |
+| 9 | Maximum Amount of Money Robot Can ... | medium | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | 02-04-26 |
