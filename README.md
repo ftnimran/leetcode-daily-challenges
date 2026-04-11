@@ -19,3 +19,4 @@
 | 15 | XOR After Range Multiplication Que... | medium | JavaScript | Array | [Link](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | 08-04-26 |
 | 16 | XOR After Range Multiplication Que... | hard | JavaScript | Array | [Link](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | 09-04-26 |
 | 17 | Minimum Distance Between Three Equ... | easy | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | 10-04-26 |
+| 18 | Minimum Distance Between Three Equ... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | 11-04-26 |
