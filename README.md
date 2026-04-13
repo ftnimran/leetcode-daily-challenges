@@ -21,3 +21,4 @@
 | 17 | Minimum Distance Between Three Equ... | easy | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | 10-04-26 |
 | 18 | Minimum Distance Between Three Equ... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | 11-04-26 |
 | 19 | Minimum Distance to Type a Word Us... | hard | JavaScript | DP | [Link](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | 12-04-26 |
+| 20 | Minimum Distance to the Target Ele... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | 13-04-26 |
