@@ -24,3 +24,4 @@
 | 20 | Minimum Distance to the Target Ele... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | 13-04-26 |
 | 21 | Minimum Total Distance Traveled | hard | JavaScript | DP | [Link](https://leetcode.com/problems/minimum-total-distance-traveled/) | 14-04-26 |
 | 22 | Shortest Distance to Target String... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | 15-04-26 |
+| 23 | Closest Equal Element Queries | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/closest-equal-element-queries/) | 16-04-26 |
