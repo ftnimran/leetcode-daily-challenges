@@ -26,3 +26,4 @@
 | 22 | Shortest Distance to Target String... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | 15-04-26 |
 | 23 | Closest Equal Element Queries | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/closest-equal-element-queries/) | 16-04-26 |
 | 24 | Minimum Absolute Distance Between ... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | 17-04-26 |
+| 25 | Mirror Distance of an Integer | easy | JavaScript | Math | [Link](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 18-04-26 |
