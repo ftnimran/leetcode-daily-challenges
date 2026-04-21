@@ -29,3 +29,4 @@
 | 25 | Mirror Distance of an Integer | easy | JavaScript | Math | [Link](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 18-04-26 |
 | 26 | Maximum Distance Between a Pair of... | medium | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | 19-04-26 |
 | 27 | Two Furthest Houses With Different... | easy | JavaScript | Greedy | [Link](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | 20-04-26 |
+| 28 | Minimize Hamming Distance After Sw... | medium | JavaScript | Array | [Link](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | 21-04-26 |
