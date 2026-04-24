@@ -32,3 +32,4 @@
 | 28 | Minimize Hamming Distance After Sw... | medium | JavaScript | Array | [Link](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | 21-04-26 |
 | 29 | Words Within Two Edits of Dictionary | medium | JavaScript | Trie | [Link](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | 22-04-26 |
 | 30 | Sum of Distances | medium | JavaScript | Prefix Sum | [Link](https://leetcode.com/problems/sum-of-distances/) | 23-04-26 |
+| 31 | Furthest Point From Origin | easy | JavaScript | String | [Link](https://leetcode.com/problems/furthest-point-from-origin/) | 24-04-26 |
