@@ -34,3 +34,4 @@
 | 30 | Sum of Distances | medium | JavaScript | Prefix Sum | [Link](https://leetcode.com/problems/sum-of-distances/) | 23-04-26 |
 | 31 | Furthest Point From Origin | easy | JavaScript | String | [Link](https://leetcode.com/problems/furthest-point-from-origin/) | 24-04-26 |
 | 32 | Maximize the Distance Between Poin... | hard | JavaScript | Binary Search | [Link](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | 25-04-26 |
+| 33 | Detect Cycles in 2D Grid | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | 26-04-26 |
