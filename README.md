@@ -36,3 +36,4 @@
 | 32 | Maximize the Distance Between Poin... | hard | JavaScript | Binary Search | [Link](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | 25-04-26 |
 | 33 | Detect Cycles in 2D Grid | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | 26-04-26 |
 | 34 | Check if There is a Valid Path in ... | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | 27-04-26 |
+| 35 | Minimum Operations to Make a Uni-V... | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 28-04-26 |
