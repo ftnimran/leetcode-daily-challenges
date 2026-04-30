@@ -38,3 +38,4 @@
 | 34 | Check if There is a Valid Path in ... | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | 27-04-26 |
 | 35 | Minimum Operations to Make a Uni-V... | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 28-04-26 |
 | 36 | Maximum Score From Grid Operations | hard | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-score-from-grid-operations/) | 29-04-26 |
+| 37 | Maximum Path Score in a Grid | medium | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | 30-04-26 |
