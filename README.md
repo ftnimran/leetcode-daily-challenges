@@ -41,3 +41,4 @@
 | 37 | Maximum Path Score in a Grid | medium | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | 30-04-26 |
 | 38 | Rotate Function | medium | JavaScript | DP | [Link](https://leetcode.com/problems/rotate-function/) | 01-05-26 |
 | 39 | Rotated Digits | medium | JavaScript | DP | [Link](https://leetcode.com/problems/rotated-digits/) | 02-05-26 |
+| 40 | Rotate String | easy | JavaScript | String | [Link](https://leetcode.com/problems/rotate-string/) | 03-05-26 |
