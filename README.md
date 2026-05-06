@@ -44,3 +44,4 @@
 | 40 | Rotate String | easy | JavaScript | String | [Link](https://leetcode.com/problems/rotate-string/) | 03-05-26 |
 | 41 | Rotate Image | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/rotate-image/) | 04-05-26 |
 | 42 | Rotate List | medium | JavaScript | Linked List | [Link](https://leetcode.com/problems/rotate-list/) | 05-05-26 |
+| 43 | Rotating the Box | medium | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/rotating-the-box/) | 06-05-26 |
