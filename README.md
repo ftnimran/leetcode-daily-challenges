@@ -45,3 +45,4 @@
 | 41 | Rotate Image | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/rotate-image/) | 04-05-26 |
 | 42 | Rotate List | medium | JavaScript | Linked List | [Link](https://leetcode.com/problems/rotate-list/) | 05-05-26 |
 | 43 | Rotating the Box | medium | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/rotating-the-box/) | 06-05-26 |
+| 44 | Jump Game IX | medium | JavaScript | DP | [Link](https://leetcode.com/problems/jump-game-ix/) | 07-05-26 |
