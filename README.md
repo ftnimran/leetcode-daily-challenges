@@ -16,3 +16,4 @@
 | 12 | Number of Ways to Assign Edge Weig... | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/number-of-ways-to-assign-edge-weights-ii) | 12-06-26 |
 | 13 | Weighted Word Mapping | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/weighted-word-mapping) | 13-06-26 |
 | 14 | Maximum Twin Sum of a Linked List | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/maximum-twin-sum-of-a-linked-list) | 14-06-26 |
+| 15 | Delete the Middle Node of a Linked... | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/delete-the-middle-node-of-a-linked-list) | 15-06-26 |
