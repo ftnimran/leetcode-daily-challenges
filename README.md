@@ -18,3 +18,4 @@
 | 14 | Maximum Twin Sum of a Linked List | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/maximum-twin-sum-of-a-linked-list) | 14-06-26 |
 | 15 | Delete the Middle Node of a Linked... | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/delete-the-middle-node-of-a-linked-list) | 15-06-26 |
 | 16 | Process String with Special Operat... | medium | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/string/process-string-with-special-operations-i) | 16-06-26 |
+| 17 | Process String with Special Operat... | hard | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/string/process-string-with-special-operations-ii) | 17-06-26 |
