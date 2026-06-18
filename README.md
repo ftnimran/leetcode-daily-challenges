@@ -19,3 +19,4 @@
 | 15 | Delete the Middle Node of a Linked... | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/delete-the-middle-node-of-a-linked-list) | 15-06-26 |
 | 16 | Process String with Special Operat... | medium | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/string/process-string-with-special-operations-i) | 16-06-26 |
 | 17 | Process String with Special Operat... | hard | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/string/process-string-with-special-operations-ii) | 17-06-26 |
+| 18 | Angle Between Hands of a Clock | medium | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/math/angle-between-hands-of-a-clock) | 18-06-26 |
