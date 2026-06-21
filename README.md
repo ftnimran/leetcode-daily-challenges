@@ -22,3 +22,4 @@
 | 18 | Angle Between Hands of a Clock | medium | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/math/angle-between-hands-of-a-clock) | 18-06-26 |
 | 19 | Find the Highest Altitude | easy | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/prefix-sum/find-the-highest-altitude) | 19-06-26 |
 | 20 | Maximum Building Height | hard | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/array/maximum-building-height) | 20-06-26 |
+| 21 | Maximum Ice Cream Bars | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/maximum-ice-cream-bars) | 21-06-26 |
