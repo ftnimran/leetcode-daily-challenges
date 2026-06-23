@@ -24,3 +24,4 @@
 | 20 | Maximum Building Height | hard | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/array/maximum-building-height) | 20-06-26 |
 | 21 | Maximum Ice Cream Bars | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/maximum-ice-cream-bars) | 21-06-26 |
 | 22 | Maximum Number of Balloons | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/maximum-number-of-balloons) | 22-06-26 |
+| 23 | Number of ZigZag Arrays I | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/number-of-zigzag-arrays-i) | 23-06-26 |
