@@ -26,3 +26,4 @@
 | 22 | Maximum Number of Balloons | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/maximum-number-of-balloons) | 22-06-26 |
 | 23 | Number of ZigZag Arrays I | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/number-of-zigzag-arrays-i) | 23-06-26 |
 | 24 | Number of ZigZag Arrays II | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/number-of-zigzag-arrays-ii) | 24-06-26 |
+| 25 | Count Subarrays With Majority Elem... | medium | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/segment-tree/count-subarrays-with-majority-element-i) | 01-07-26 |
