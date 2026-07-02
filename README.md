@@ -29,4 +29,5 @@
 | 25 | Count Subarrays With Majority Elem... | medium | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/segment-tree/count-subarrays-with-majority-element-i) | 25-06-26 |
 | 26 | Count Subarrays With Majority Elem... | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/count-subarrays-with-majority-element-ii) | 26-06-26 |
 | 27 | Find the Maximum Number of Element... | medium | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/hashing/find-the-maximum-number-of-elements-in-subset) | 27-06-26 |
-| 28 | Maximum Element After Decreasing a... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/maximum-element-after-decreasing-and-rearranging) | 02-07-26 |
+| 28 | Maximum Element After Decreasing a... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/maximum-element-after-decreasing-and-rearranging) | 28-06-26 |
+| 29 | Number of Strings That Appear as S... | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/number-of-strings-that-appear-as-substrings-in-word) | 02-07-26 |
