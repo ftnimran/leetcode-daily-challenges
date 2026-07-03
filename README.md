@@ -33,3 +33,4 @@
 | 29 | Number of Strings That Appear as S... | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/number-of-strings-that-appear-as-substrings-in-word) | 29-06-26 |
 | 30 | Number of Substrings Containing Al... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/number-of-substrings-containing-all-three-characters) | 30-06-26 |
 | 31 | Find the Safest Path in a Grid | medium | JavaScript | Binary Search | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/binary-search/find-the-safest-path-in-a-grid) | 03-07-26 |
+| 32 | Find a Safe Walk Through a Grid | medium | JavaScript | Matrix | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/matrix/find-a-safe-walk-through-a-grid) | 03-07-26 |
