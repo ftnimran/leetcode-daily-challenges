@@ -34,4 +34,5 @@
 | 30 | Number of Substrings Containing Al... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/number-of-substrings-containing-all-three-characters) | 30-06-26 |
 | 31 | Find the Safest Path in a Grid | medium | JavaScript | Binary Search | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/binary-search/find-the-safest-path-in-a-grid) | 01-07-26 |
 | 32 | Find a Safe Walk Through a Grid | medium | JavaScript | Matrix | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/matrix/find-a-safe-walk-through-a-grid) | 02-07-26 |
-| 33 | Network Recovery Pathways | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/network-recovery-pathways) | 04-07-26 |
+| 33 | Network Recovery Pathways | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/network-recovery-pathways) | 03-07-26 |
+| 34 | Minimum Score of a Path Between Tw... | medium | JavaScript | General | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/general/minimum-score-of-a-path-between-two-cities) | 04-07-26 |
