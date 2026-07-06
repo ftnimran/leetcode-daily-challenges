@@ -37,3 +37,4 @@
 | 33 | Network Recovery Pathways | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/network-recovery-pathways) | 03-07-26 |
 | 34 | Minimum Score of a Path Between Tw... | medium | JavaScript | General | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/general/minimum-score-of-a-path-between-two-cities) | 04-07-26 |
 | 35 | Number of Paths with Max Score | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/number-of-paths-with-max-score) | 05-07-26 |
+| 36 | Remove Covered Intervals | medium | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/array/remove-covered-intervals) | 06-07-26 |
