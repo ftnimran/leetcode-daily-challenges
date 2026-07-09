@@ -40,3 +40,4 @@
 | 36 | Remove Covered Intervals | medium | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/array/remove-covered-intervals) | 06-07-26 |
 | 37 | Concatenate Non-Zero Digits and Mu... | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/concatenate-non-zero-digits-and-multiply-by-sum-i) | 07-07-26 |
 | 38 | Concatenate Non-Zero Digits and Mu... | medium | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/prefix-sum/concatenate-non-zero-digits-and-multiply-by-sum-ii) | 08-07-26 |
+| 39 | Path Existence Queries in a Graph I | medium | JavaScript | Binary Search | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/binary-search/path-existence-queries-in-a-graph-i) | 09-07-26 |
