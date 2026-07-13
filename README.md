@@ -44,3 +44,4 @@
 | 40 | Path Existence Queries in a Graph II | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/path-existence-queries-in-a-graph-ii) | 10-07-26 |
 | 41 | Count the Number of Complete Compo... | medium | JavaScript | General | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/general/count-the-number-of-complete-components) | 11-07-26 |
 | 42 | Rank Transform of an Array | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/rank-transform-of-an-array) | 12-07-26 |
+| 43 | Sequential Digits | medium | JavaScript | General | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/general/sequential-digits) | 13-07-26 |
