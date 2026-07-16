@@ -47,3 +47,4 @@
 | 43 | Sequential Digits | medium | JavaScript | General | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/general/sequential-digits) | 13-07-26 |
 | 44 | Find the Number of Subsequences Wi... | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/find-the-number-of-subsequences-with-equal-gcd) | 14-07-26 |
 | 45 | GCD of Odd and Even Sums | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/gcd-of-odd-and-even-sums) | 15-07-26 |
+| 46 | Sum of GCD of Formed Pairs | medium | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/two-pointer/sum-of-gcd-of-formed-pairs) | 16-07-26 |
