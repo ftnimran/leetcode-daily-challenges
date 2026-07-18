@@ -49,3 +49,4 @@
 | 45 | GCD of Odd and Even Sums | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/gcd-of-odd-and-even-sums) | 15-07-26 |
 | 46 | Sum of GCD of Formed Pairs | medium | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/two-pointer/sum-of-gcd-of-formed-pairs) | 16-07-26 |
 | 47 | Sorted GCD Pair Queries | hard | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/prefix-sum/sorted-gcd-pair-queries) | 17-07-26 |
+| 48 | Find Greatest Common Divisor of Array | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/find-greatest-common-divisor-of-array) | 18-07-26 |
