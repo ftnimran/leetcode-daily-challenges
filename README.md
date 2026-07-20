@@ -51,3 +51,4 @@
 | 47 | Sorted GCD Pair Queries | hard | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/prefix-sum/sorted-gcd-pair-queries) | 17-07-26 |
 | 48 | Find Greatest Common Divisor of Array | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/find-greatest-common-divisor-of-array) | 18-07-26 |
 | 49 | Smallest Subsequence of Distinct C... | medium | JavaScript | Monotonic Stack | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/monotonic-stack/smallest-subsequence-of-distinct-characters) | 19-07-26 |
+| 50 | Shift 2D Grid | easy | JavaScript | Matrix | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/matrix/shift-2d-grid) | 20-07-26 |
