@@ -54,3 +54,4 @@
 | 50 | Shift 2D Grid | easy | JavaScript | Matrix | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/matrix/shift-2d-grid) | 20-07-26 |
 | 51 | Maximize Active Section with Trade I | medium | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/string/maximize-active-section-with-trade-i) | 21-07-26 |
 | 52 | Maximize Active Section with Trade II | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/maximize-active-section-with-trade-ii) | 22-07-26 |
+| 53 | Number of Unique XOR Triplets I | medium | JavaScript | Bit Manipulation | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/bit-manipulation/number-of-unique-xor-triplets-i) | 23-07-26 |
