@@ -58,3 +58,4 @@
 | 54 | Number of Unique XOR Triplets II | medium | JavaScript | Bit Manipulation | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/bit-manipulation/number-of-unique-xor-triplets-ii) | 24-07-26 |
 | 55 | Maximum Product of Two Digits | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/maximum-product-of-two-digits) | 25-07-26 |
 | 56 | Maximum Product of Three Numbers | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/maximum-product-of-three-numbers) | 26-07-26 |
+| 57 | Maximum Product of Two Elements in... | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/maximum-product-of-two-elements-in-an-array) | 27-07-26 |
