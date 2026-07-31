@@ -62,3 +62,4 @@
 | 58 | Smallest Palindromic Rearrangement I | medium | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/string/smallest-palindromic-rearrangement-i) | 28-07-26 |
 | 59 | Smallest Palindromic Rearrangement II | hard | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/hashing/smallest-palindromic-rearrangement-ii) | 29-07-26 |
 | 60 | Minimum Number of Pushes to Type W... | easy | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/greedy/minimum-number-of-pushes-to-type-word-i) | 30-07-26 |
+| 61 | Minimum Number of Pushes to Type W... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/minimum-number-of-pushes-to-type-word-ii) | 31-07-26 |
