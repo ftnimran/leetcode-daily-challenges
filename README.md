@@ -64,3 +64,4 @@
 | 60 | Minimum Number of Pushes to Type W... | easy | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/greedy/minimum-number-of-pushes-to-type-word-i) | 30-07-26 |
 | 61 | Minimum Number of Pushes to Type W... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/minimum-number-of-pushes-to-type-word-ii) | 31-07-26 |
 | 62 | Predict the Winner | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/predict-the-winner) | 01-08-26 |
+| 63 | Stone Game | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/stone-game) | 02-08-26 |
