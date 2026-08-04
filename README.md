@@ -66,3 +66,4 @@
 | 62 | Predict the Winner | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/predict-the-winner) | 01-08-26 |
 | 63 | Stone Game | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/stone-game) | 02-08-26 |
 | 64 | Stone Game III | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/stone-game-iii) | 03-08-26 |
+| 65 | Find Missing Elements | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/find-missing-elements) | 04-08-26 |
