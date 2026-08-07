@@ -69,3 +69,4 @@
 | 65 | Find Missing Elements | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/find-missing-elements) | 04-08-26 |
 | 66 | Remove Methods From Project | medium | JavaScript | General | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/general/remove-methods-from-project) | 05-08-26 |
 | 67 | Smallest Divisible Digit Product I | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/smallest-divisible-digit-product-i) | 06-08-26 |
+| 68 | Smallest Divisible Digit Product II | hard | JavaScript | Backtracking | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/backtracking/smallest-divisible-digit-product-ii) | 07-08-26 |
