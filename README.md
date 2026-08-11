@@ -73,3 +73,4 @@
 | 69 | Find the Lexicographically Smalles... | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/find-the-lexicographically-smallest-valid-sequence) | 08-08-26 |
 | 70 | Stone Game II | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/stone-game-ii) | 09-08-26 |
 | 71 | Stone Game IV | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/stone-game-iv) | 10-08-26 |
+| 72 | Smallest Missing Integer Greater T... | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/smallest-missing-integer-greater-than-sequential-prefix-sum) | 11-08-26 |
