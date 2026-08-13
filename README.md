@@ -75,3 +75,4 @@
 | 71 | Stone Game IV | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/stone-game-iv) | 10-08-26 |
 | 72 | Smallest Missing Integer Greater T... | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/smallest-missing-integer-greater-than-sequential-prefix-sum) | 11-08-26 |
 | 73 | Length of Longest Subarray With at... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/length-of-longest-subarray-with-at-most-k-frequency) | 12-08-26 |
+| 74 | Longest Substring of One Repeating... | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/longest-substring-of-one-repeating-character) | 13-08-26 |
