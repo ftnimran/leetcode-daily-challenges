@@ -76,3 +76,4 @@
 | 72 | Smallest Missing Integer Greater T... | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/smallest-missing-integer-greater-than-sequential-prefix-sum) | 11-08-26 |
 | 73 | Length of Longest Subarray With at... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/length-of-longest-subarray-with-at-most-k-frequency) | 12-08-26 |
 | 74 | Longest Substring of One Repeating... | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/longest-substring-of-one-repeating-character) | 13-08-26 |
+| 75 | Maximum Length Substring With Two ... | easy | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/sliding-window/maximum-length-substring-with-two-occurrences) | 14-08-26 |
