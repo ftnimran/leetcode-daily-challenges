@@ -79,3 +79,4 @@
 | 75 | Maximum Length Substring With Two ... | easy | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/sliding-window/maximum-length-substring-with-two-occurrences) | 14-08-26 |
 | 76 | Longest Subsequence With Non-Zero ... | medium | JavaScript | Bit Manipulation | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/bit-manipulation/longest-subsequence-with-non-zero-bitwise-xor) | 15-08-26 |
 | 77 | Stone Game IX | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/stone-game-ix) | 16-08-26 |
+| 78 | Stone Game V | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/stone-game-v) | 17-08-26 |
