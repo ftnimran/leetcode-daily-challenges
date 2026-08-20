@@ -82,3 +82,4 @@
 | 78 | Stone Game V | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/stone-game-v) | 17-08-26 |
 | 79 | Find the Largest Almost Missing In... | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/find-the-largest-almost-missing-integer) | 18-08-26 |
 | 80 | Cinema Seat Allocation | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/cinema-seat-allocation) | 19-08-26 |
+| 81 | Distribute Elements Into Two Arrays I | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/distribute-elements-into-two-arrays-i) | 20-08-26 |
