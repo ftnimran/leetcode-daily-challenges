@@ -85,3 +85,4 @@
 | 81 | Distribute Elements Into Two Arrays I | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/distribute-elements-into-two-arrays-i) | 20-08-26 |
 | 82 | Kth Smallest Amount With Single De... | hard | JavaScript | Binary Search | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/binary-search/kth-smallest-amount-with-single-denomination-combination) | 21-08-26 |
 | 83 | Check Divisibility by Digit Sum an... | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/check-divisibility-by-digit-sum-and-product) | 22-08-26 |
+| 84 | Sum Game | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/sum-game) | 23-08-26 |
