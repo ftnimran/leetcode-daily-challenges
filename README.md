@@ -87,3 +87,4 @@
 | 83 | Check Divisibility by Digit Sum an... | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/check-divisibility-by-digit-sum-and-product) | 22-08-26 |
 | 84 | Sum Game | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/sum-game) | 23-08-26 |
 | 85 | Stone Game VIII | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/stone-game-viii) | 24-08-26 |
+| 86 | Smallest Missing Multiple of K | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/smallest-missing-multiple-of-k) | 25-08-26 |
