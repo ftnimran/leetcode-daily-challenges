@@ -90,3 +90,4 @@
 | 86 | Smallest Missing Multiple of K | easy | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/hashing/smallest-missing-multiple-of-k) | 25-08-26 |
 | 87 | Shortest and Lexicographically Sma... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/shortest-and-lexicographically-smallest-beautiful-string) | 26-08-26 |
 | 88 | Lexicographically Smallest Permuta... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/lexicographically-smallest-permutation-greater-than-target) | 27-08-26 |
+| 89 | Lexicographically Smallest Palindr... | hard | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/two-pointer/lexicographically-smallest-palindromic-permutation-greater-than-target) | 28-08-26 |
