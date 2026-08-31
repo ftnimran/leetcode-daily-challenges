@@ -93,3 +93,4 @@
 | 89 | Lexicographically Smallest Palindr... | hard | JavaScript | Two Pointer | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/two-pointer/lexicographically-smallest-palindromic-permutation-greater-than-target) | 28-08-26 |
 | 90 | Make Lexicographically Smallest Ar... | medium | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/array/make-lexicographically-smallest-array-by-swapping-elements) | 29-08-26 |
 | 91 | Removing Minimum and Maximum From ... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/removing-minimum-and-maximum-from-array) | 30-08-26 |
+| 92 | Find the Minimum and Maximum Numbe... | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | 31-08-26 |
