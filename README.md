@@ -95,3 +95,4 @@
 | 91 | Removing Minimum and Maximum From ... | medium | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/greedy/removing-minimum-and-maximum-from-array) | 30-08-26 |
 | 92 | Find the Minimum and Maximum Numbe... | medium | JavaScript | Linked List | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/linked-list/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | 31-08-26 |
 | 93 | Minimum Moves to Clean the Classroom | medium | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/hashing/minimum-moves-to-clean-the-classroom) | 01-09-26 |
+| 94 | Construct Uniform Parity Array I | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/construct-uniform-parity-array-i) | 02-09-26 |
