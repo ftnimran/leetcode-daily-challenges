@@ -97,3 +97,4 @@
 | 93 | Minimum Moves to Clean the Classroom | medium | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/hashing/minimum-moves-to-clean-the-classroom) | 01-09-26 |
 | 94 | Construct Uniform Parity Array I | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/construct-uniform-parity-array-i) | 02-09-26 |
 | 95 | Construct Uniform Parity Array II | medium | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/array/construct-uniform-parity-array-ii) | 03-09-26 |
+| 96 | Smallest Stable Index I | easy | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/prefix-sum/smallest-stable-index-i) | 04-09-26 |
