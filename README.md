@@ -101,3 +101,4 @@
 | 97 | Smallest Stable Index II | medium | JavaScript | Prefix Sum | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/prefix-sum/smallest-stable-index-ii) | 05-09-26 |
 | 98 | Distinct Subsequences | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/distinct-subsequences) | 06-09-26 |
 | 99 | Distinct Subsequences II | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/distinct-subsequences-ii) | 07-09-26 |
+| 100 | Count Commas in Range | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/count-commas-in-range) | 08-09-26 |
