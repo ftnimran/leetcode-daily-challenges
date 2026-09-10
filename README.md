@@ -103,3 +103,4 @@
 | 99 | Distinct Subsequences II | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/distinct-subsequences-ii) | 07-09-26 |
 | 100 | Count Commas in Range | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/count-commas-in-range) | 08-09-26 |
 | 101 | Count Commas in Range II | medium | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/math/count-commas-in-range-ii) | 09-09-26 |
+| 102 | Count Nodes Equal to Average of Su... | medium | JavaScript | Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/tree/count-nodes-equal-to-average-of-subtree) | 10-09-26 |
