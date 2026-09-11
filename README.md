@@ -104,3 +104,4 @@
 | 100 | Count Commas in Range | easy | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/math/count-commas-in-range) | 08-09-26 |
 | 101 | Count Commas in Range II | medium | JavaScript | Math | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/math/count-commas-in-range-ii) | 09-09-26 |
 | 102 | Count Nodes Equal to Average of Su... | medium | JavaScript | Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/tree/count-nodes-equal-to-average-of-subtree) | 10-09-26 |
+| 103 | Unique 3-Digit Even Numbers | easy | JavaScript | Backtracking | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/backtracking/unique-3-digit-even-numbers) | 11-09-26 |
