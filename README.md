@@ -107,3 +107,4 @@
 | 103 | Unique 3-Digit Even Numbers | easy | JavaScript | Backtracking | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/backtracking/unique-3-digit-even-numbers) | 11-09-26 |
 | 104 | Maximum Score of Non-overlapping I... | hard | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/dp/maximum-score-of-non-overlapping-intervals) | 12-09-26 |
 | 105 | Image Overlap | medium | JavaScript | Matrix | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/matrix/image-overlap) | 13-09-26 |
+| 106 | Rectangle Overlap | easy | JavaScript | Geometry | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/geometry/rectangle-overlap) | 14-09-26 |
