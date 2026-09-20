@@ -113,3 +113,4 @@
 | 109 | Find Two Non-overlapping Sub-array... | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/find-two-non-overlapping-sub-arrays-each-with-target-sum) | 17-09-26 |
 | 110 | Maximum Number of Non-Overlapping ... | hard | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/greedy/maximum-number-of-non-overlapping-substrings) | 18-09-26 |
 | 111 | Circle and Rectangle Overlapping | medium | JavaScript | Geometry | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/geometry/circle-and-rectangle-overlapping) | 19-09-26 |
+| 112 | Reverse Degree of a String | easy | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/string/reverse-degree-of-a-string) | 20-09-26 |
