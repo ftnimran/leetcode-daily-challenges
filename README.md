@@ -114,3 +114,4 @@
 | 110 | Maximum Number of Non-Overlapping ... | hard | JavaScript | Greedy | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/greedy/maximum-number-of-non-overlapping-substrings) | 18-09-26 |
 | 111 | Circle and Rectangle Overlapping | medium | JavaScript | Geometry | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/geometry/circle-and-rectangle-overlapping) | 19-09-26 |
 | 112 | Reverse Degree of a String | easy | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/string/reverse-degree-of-a-string) | 20-09-26 |
+| 113 | Find X Value of Array I | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/find-x-value-of-array-i) | 21-09-26 |
