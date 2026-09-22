@@ -115,3 +115,4 @@
 | 111 | Circle and Rectangle Overlapping | medium | JavaScript | Geometry | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/geometry/circle-and-rectangle-overlapping) | 19-09-26 |
 | 112 | Reverse Degree of a String | easy | JavaScript | String | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/string/reverse-degree-of-a-string) | 20-09-26 |
 | 113 | Find X Value of Array I | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/find-x-value-of-array-i) | 21-09-26 |
+| 114 | Find X Value of Array II | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/find-x-value-of-array-ii) | 22-09-26 |
