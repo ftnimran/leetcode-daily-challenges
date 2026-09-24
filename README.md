@@ -117,3 +117,4 @@
 | 113 | Find X Value of Array I | medium | JavaScript | DP | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/dp/find-x-value-of-array-i) | 21-09-26 |
 | 114 | Find X Value of Array II | hard | JavaScript | Segment Tree | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/segment-tree/find-x-value-of-array-ii) | 22-09-26 |
 | 115 | Minimum Operations to Reduce X to ... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/minimum-operations-to-reduce-x-to-zero) | 23-09-26 |
+| 116 | Smallest Index With Digit Sum Equa... | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/smallest-index-with-digit-sum-equal-to-index) | 24-09-26 |
