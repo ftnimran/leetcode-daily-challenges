@@ -119,3 +119,4 @@
 | 115 | Minimum Operations to Reduce X to ... | medium | JavaScript | Sliding Window | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/sliding-window/minimum-operations-to-reduce-x-to-zero) | 23-09-26 |
 | 116 | Smallest Index With Digit Sum Equa... | easy | JavaScript | Array | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/easy/array/smallest-index-with-digit-sum-equal-to-index) | 24-09-26 |
 | 117 | Brace Expansion II | hard | JavaScript | Backtracking | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/hard/backtracking/brace-expansion-ii) | 25-09-26 |
+| 118 | Evaluate the Bracket Pairs of a St... | medium | JavaScript | Hashing | [Link](https://github.com/ftnimran/leetcode-daily-challenges/tree/main/medium/hashing/evaluate-the-bracket-pairs-of-a-string) | 26-09-26 |
